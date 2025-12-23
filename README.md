@@ -1,16 +1,16 @@
-Fake News Detection using Machine Learning:
+**Fake News Detection using Machine Learning:**
 
 This project was created during a hackathon organized by Google Developer Group (GDG) On Campus and focuses on identifying misleading news content using machine learning techniques.
 
-🚩 Problem Overview
+**🚩 Problem Overview**
 
 With the rapid spread of information online, fake news has become a serious challenge. False or manipulated articles can influence public opinion and create misinformation. The goal of this project is to automatically determine whether a news article is real or fake.
 
-💡 Approach
+**💡 Approach**
 
 The solution uses Natural Language Processing (NLP) methods to convert text into numerical features through TF-IDF vectorization. A Logistic Regression classifier is then trained on labeled data to predict the authenticity of news articles.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 ⦁	Python
 
@@ -20,7 +20,7 @@ The solution uses Natural Language Processing (NLP) methods to convert text into
 
 ⦁	Pandas
 
-▶️ How to Execute
+**▶️ How to Execute**
 
 ⦁	Open the provided notebook in Google Colab
 
@@ -30,7 +30,7 @@ The solution uses Natural Language Processing (NLP) methods to convert text into
 
 ⦁	View the predicted result: Real or Fake
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 ⦁	Train the model on larger and more diverse datasets
 

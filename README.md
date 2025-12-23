@@ -1,4 +1,6 @@
-#**Fake News Detection using Machine Learning:**
+#fakenews
+
+**Fake News Detection using Machine Learning:**
 
 This project was created during a hackathon organized by Google Developer Group (GDG) On Campus and focuses on identifying misleading news content using machine learning techniques.
 
